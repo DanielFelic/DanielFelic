@@ -13,9 +13,12 @@ fun danielFeliciano() {
 
 <div align="center">
   <a href="https://github.com/DanielFelic">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielFelic&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFelic&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=DanielFelic&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFelic&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
+  
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Android" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
   <img align="center" alt="Daniel-Kotlin" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
