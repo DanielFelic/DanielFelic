@@ -1,4 +1,4 @@
-## Hi, i'm Daniel Feliciano a brazilian dev mobile student and filmmaker
+## Hi, I'm Daniel Feliciano a brazilian dev mobile student and filmmaker
 
 ```kotlin
 fun danielFeliciano() {
