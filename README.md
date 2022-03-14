@@ -19,6 +19,7 @@ fun danielFeliciano() {
   ##
   
 <div style="display: inline_block"><br>
+   <h1> Skills </h1>
   <img align="center" alt="Daniel-Android" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
   <img align="center" alt="Daniel-Kotlin" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
   <img align="center" alt="Daniel-Git" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
@@ -27,6 +28,7 @@ fun danielFeliciano() {
   ##
   
   <div>
+     <h1>Contacts: </h1>
       <a href="https://www.linkedin.com/in/daniel-sfeliciano/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href = "mailto:danielfeliciano.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/danielfelic/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
