@@ -16,8 +16,6 @@ fun danielFeliciano() {
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFelic&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
-  ##
-  
 <div style="display: inline_block"><br>
    <h2> Skills: </h2>
   <img align="center" alt="Daniel-Android" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
