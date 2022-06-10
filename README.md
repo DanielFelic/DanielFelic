@@ -53,7 +53,7 @@ fun danielFeliciano() {
   </tr>
   </table>
   
-  <h4> SO: </h4>
+  <h4> OS: </h4>
   
   <table>
   <tr>
