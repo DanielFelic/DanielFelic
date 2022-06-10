@@ -1,4 +1,4 @@
-## Hi, I'm Daniel Feliciano a brazilian mobile dev jr. and filmmaker
+## Hi, I'm Daniel Feliciano a brazilian mobile developer jr. and filmmaker
 
 ```kotlin
 fun danielFeliciano() {
@@ -18,9 +18,42 @@ fun danielFeliciano() {
   
 <div style="display: inline_block"><br>
    <h2> Skills: </h2>
-  <img align="center" alt="Daniel-Android" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
-  <img align="center" alt="Daniel-Kotlin" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-  <img align="center" alt="Daniel-Git" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <h4> Software Development: </h4>
+  
+  <table>
+  <tr>
+    <td align="center"> <img align="center" alt="Daniel-Android" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"></td>
+    <td align="center"><img align="center" alt="Daniel-Android-Studio" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></td>
+    <td align="center"><img align="center" alt="Daniel-Kotlin" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"></td>
+     <td align="center"><img align="center" alt="Daniel-Intellij" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg"></td>
+    <td align="center"> <img align="center" alt="Daniel-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></td>
+<td align="center"> <img align="center" alt="Daniel-Pycharm" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"></td>
+<td align="center"><img align="center" alt="Daniel-SQLite" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /></td>
+<td align="center">
+            <img align="center" alt="Daniel-Vscode" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          </td>
+<td align="center"><img align="center" alt="Daniel-Git" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></td>
+<td align="center">
+            <img align="center" alt="Daniel-Anaconda" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
+          </td>
+  </tr>
+  </table>
+  
+  <h4> Filmmaking: </h4>
+  
+  <table>
+  <tr>
+    <td align="center"> <a href="https://imgur.com/FTAnJu3"><img align="center" alt="Daniel-Premiere" height="65" width="65" src="https://i.imgur.com/FTAnJu3.png" title="source: imgur.com" /></a></td>
+    <td align="center"><a href="https://imgur.com/5nKS6U7"><img align="center" alt="Daniel-After-Effects" height="65" width="65" src="https://i.imgur.com/5nKS6U7.png" title="source: imgur.com" /></a></td>
+    <td align="center"><a href="https://imgur.com/eom9ynI"><img align="center" alt="Daniel-Encoder" height="65" width="65" src="https://i.imgur.com/eom9ynI.png" title="source: imgur.com" /></a></td>
+     <td align="center"><a href="https://imgur.com/s95fjLT"><img align="center" alt="Daniel-Photoshop" height="65" width="65" src="https://i.imgur.com/s95fjLT.png" title="source: imgur.com" /></a></td>
+    <td align="center"><a href="https://imgur.com/DBS8WrL"><img align="center" alt="Daniel-Audition" height="65" width="65" src="https://i.imgur.com/DBS8WrL.png" title="source: imgur.com" /></a></td>
+    <td align="center"><a href="https://imgur.com/GEb28N5"><img align="center" alt="Daniel-Final-Cut" height="65" width="65" src="https://i.imgur.com/GEb28N5.png" title="source: imgur.com" /></a></td>
+    <td align="center"><a href="https://imgur.com/3AorWEX"><img align="center" alt="Daniel-Celtx" height="65" width="65" src="https://i.imgur.com/3AorWEX.jpg" title="source: imgur.com" /></a></td>
+  </tr>
+  </table>
+  
+  
   </div>
   
   ##
