@@ -6,7 +6,7 @@ fun danielFeliciano() {
   val nationality = "brazilian"
   val currentlyLiving = "campinas, 🇧🇷"
   val pronouns = "he | him"
-  var knowledge = "Android and Kotlin"
+  var knowledge = "Android | Kotlin | Python"
   var courses = "GenerationBR"
 }
 ```
