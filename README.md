@@ -6,8 +6,8 @@ fun danielFeliciano() {
   val nationality = "brazilian"
   val currentlyLiving = "campinas, 🇧🇷"
   val pronouns = "he | him"
-  var knowledge = "Android | Kotlin | Python"
-  var courses = "GenerationBR"
+  var knowledge = "Android | Kotlin | Python | Cloud Computing | AWS"
+  var courses = "Generation Brasil | AWS re/Start"
 }
 ```
 <div align="center">
@@ -39,6 +39,24 @@ fun danielFeliciano() {
   </tr>
   </table>
   
+  <h4> Cloud Computing: </h4>
+   
+  <table>
+  <tr>
+    <td align="center"> <img align="center" alt="Daniel-AWS" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></td>
+    <td align="center"><img align="center" alt="Daniel-AWS-EC2" height="60" width="60" 
+src="https://i.imgur.com/Qq7cAGg.png" title="source: imgur.com"></td>
+    <td align="center"><img align="center" alt="Daniel-AWS-S3" height="60" width="60" 
+src="https://i.imgur.com/Kjjsh3a.png" title="source: imgur.com"></td>
+    <td align="center"><img align="center" alt="Daniel-AWS-VPC" height="60" width="60" 
+src="https://i.imgur.com/lfwSWiy.png" title="source: imgur.com"></td>
+    <td align="center"> <img align="center" alt="Daniel-AWS-IAM" height="60" width="60" 
+src="https://i.imgur.com/li42Ru0.png" title="source: imgur.com"></td>
+    <td align="center"> <img align="center" alt="Daniel-AWS-Cloud9" height="60" width="60" 
+src="https://i.imgur.com/LJJZ35B.png" title="source: imgur.com"></td>
+  </tr>
+  </table>
+  
   <h4> Filmmaking: </h4>
   
   <table>
@@ -62,6 +80,9 @@ fun danielFeliciano() {
           </td>
     <td align="center">
             <img align="center" alt="Daniel-Apple" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+          </td>
+    <td align="center">
+            <img align="center" alt="Daniel-Linux" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           </td>
   </tr>
   </table>
